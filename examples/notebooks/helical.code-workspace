@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../helical"
+		},
+		{
+			"name": "helical-1",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
